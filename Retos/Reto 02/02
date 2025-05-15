@@ -1,4 +1,2 @@
 rm 02.ext
-git add nombre_del_archivo.ext
-git commit -m "Eliminando archivo innecesario"
-git push origin main
+
