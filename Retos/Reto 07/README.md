@@ -1,2 +1,2 @@
 # Registro y comparación de facturas 📄
-- Modelado de una declaración de impuestos con record, validada contra una cuenta fiscal usando encapsulación y comparando con Objects.equals().
+- Modelado de facturas emitidas para un sistema contable, reforzando el uso de constructores, equals(), hashCode() y toString().
