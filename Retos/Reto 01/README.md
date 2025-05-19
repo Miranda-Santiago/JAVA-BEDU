@@ -1,2 +1,3 @@
-# Registro básico de pacientes ![image](https://github.com/user-attachments/assets/545afb41-fb79-4eaa-bb11-9d30af84ef74)
+# Registro básico de pacientes 👤
+Programa desarrollado en Java que registra los datos de un paciente, aplicando los fundamentos de clases, objetos, atributos, métodos y la entrada de datos por consola.
 
